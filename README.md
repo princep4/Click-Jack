@@ -7,7 +7,7 @@ Clickjacking, also known as a “UI redress attack”, is when an attacker uses 
 ## Installation:
 ````
 git clone https://github.com/princep4/Click-Jack.git
-cd clickjack
+cd Click-Jack
 pip install -r requirements.txt
 ````
 
