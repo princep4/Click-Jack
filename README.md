@@ -19,7 +19,7 @@ or
 python3 clickjack.py urls.txt
 ````
 
-![[1.jpg]]
+![1](https://user-images.githubusercontent.com/75206412/148673052-565d2571-11a1-4345-a581-71e6ce052ef2.jpg)
 
 ## Benifits:
 - It will work for list of urls
