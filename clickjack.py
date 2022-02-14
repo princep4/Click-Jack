@@ -58,7 +58,7 @@ def main():
 ############################################
     urlist=[]
     import argparse
-    parser = argparse.ArgumentParser(description='Personal information')
+    parser = argparse.ArgumentParser(description='Click Jack')
     parser.add_argument('-url', dest='url', nargs="+" ,help='List of URLs')
     parser.add_argument('-file', dest='file', type=str, help='Filename containing URL(s) ')
     args = parser.parse_args()
